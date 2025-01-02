@@ -39,11 +39,10 @@ Navigate to the project directory and run the script:
 python3 play.py
 ```
 
-You will be prompted to enter your name, and then you can start playing the
-game. Enter 'Rock', 'Scissors' or 'Paper' to select your move, or press 'Q'
-to quit. Input is case-insensitive.
+You will be prompted to enter 'Rock', 'Scissors' or 'Paper' to select your
+move, or press 'Q' to quit. Input is case-insensitive.
 
 ## License
 
 This project is licensed under the MIT License -
-see the LICENSE.md file for details.
+see the [LICENSE](LICENSE) file for details.
